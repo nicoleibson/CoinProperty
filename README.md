@@ -1,61 +1,62 @@
-# Coin Promotion WebApp for CoinProperty 💎✨  
 
-This project, developed by **CoinProperty**, is designed to integrate **blockchain governance** with real estate token promotion. It enables decentralized decision-making and incentivized participation.
+# CoinProperty: Plataforma de Gobernanza y Staking Inmobiliario 💎✨
 
----  
+Bienvenido a **CoinProperty**, un proyecto diseñado para fusionar la **gobernanza descentralizada** con la promoción de tokens inmobiliarios. Esta plataforma permite la toma de decisiones descentralizada e incentiva la participación de la comunidad.
 
-## How It Works 🛍️  
+---
 
-The platform merges **coin-based voting functionalities** with property token staking and reward mechanisms to create a robust Web3 engagement and governance system.  
+## ¿Cómo Funciona? 🛍️
 
-Below is an overview of the core functionalities:  
+CoinProperty combina funcionalidades de **votación basadas en monedas** con mecanismos de staking y recompensas de tokens de propiedad, creando un sistema robusto de participación y gobernanza en el ecosistema Web3.
 
----  
+A continuación, un resumen de las funcionalidades principales:
 
-### 1. Staking Mechanism for Real Estate Tokens 🔒  
+---
 
-- Users can stake real estate tokens for fixed durations to earn rewards.  
-- Staking is required before participating in property-related voting.  
-- Reward mechanisms are based on staking amounts and durations, incentivizing long-term engagement.  
+### 1. Mecanismo de Staking para Tokens Inmobiliarios 🔒
 
-### 2. Property Token Promotion 🌟  
+- Los usuarios pueden hacer "staking" (apostar) sus tokens inmobiliarios durante períodos fijos para ganar recompensas.
+- Es necesario hacer staking para poder participar en las votaciones relacionadas con las propiedades.
+- Los mecanismos de recompensa se basan en la cantidad y duración del staking, incentivando así el compromiso a largo plazo.
 
-- Token-based incentives for voting and staking activities.  
-- Automated reward calculations to encourage user participation.  
-- Gamified engagement to boost real estate token adoption and visibility.  
+### 2. Promoción de Tokens de Propiedad 🌟
 
-### 3. Platform Enhancements 🔧  
+- Incentivos basados en tokens para actividades de votación y staking.
+- Cálculos de recompensa automatizados para fomentar la participación de los usuarios.
+- Gamificación para impulsar la adopción y visibilidad de los tokens inmobiliarios.
 
-- **powered UI/UX upgrades** for an optimized real estate token experience.  
-- **Advanced voting options** for property governance:  
-  - Weighted voting based on stake amounts.  
-  - Ranked-choice voting for property prioritization.  
-- **Ethereum Mainnet integration** for broader user access.  
-- **Enhanced security measures**, including multi-sig wallets and reentrancy protection.  
+### 3. Mejoras de la Plataforma 🔧
 
----  
+- **Mejoras en la interfaz de usuario (UI/UX)** para una experiencia optimizada.
+- **Opciones de votación avanzadas** para la gobernanza de propiedades:
+  - Voto ponderado basado en la cantidad de staking.
+  - Votación por orden de preferencia para la priorización de propiedades.
+- **Integración con la Mainnet de Ethereum** para un acceso más amplio de los usuarios.
+- **Medidas de seguridad mejoradas**, incluyendo carteras multi-firma y protección contra ataques de reentrada.
 
-## Running the WebApp 👩‍💻  
+---
 
-### Clone the Repository  
+## Cómo Ejecutar la Aplicación Web 👩‍💻
 
-```sh  
-git clone https://github.com/chain-org3/coin-promotion
-cd coin-promotion  
-```  
+### Clona el Repositorio
 
-### Install Dependencies  
+```sh
+git clone https://github.com/nicoleibson/CoinProperty.git
+cd CoinProperty
+```
 
-```sh  
-npm install  
-```  
+### Instala las Dependencias
 
-### Run the Application  
+```sh
+npm install
+```
 
-```sh  
-npm start  
-```  
+### Ejecuta la Aplicación
 
-## License 📝  
+```sh
+npm start
+```
 
-This project is licensed under a **Limited License**.
+## Licencia 📝
+
+Este proyecto está bajo una **Licencia Limitada**.
